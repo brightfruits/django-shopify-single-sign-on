@@ -1,0 +1,10 @@
+*.pyc
+*.db
+*.py~
+*.*~
+*.backup
+virtualenv/*
+*.swp
+static_deploy/*
+log/*
+media/*
